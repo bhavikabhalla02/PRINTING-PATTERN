@@ -2,7 +2,7 @@
 // 0 1
 // 1 0 1
 // 0 1 0 1
-// 1 0 1 0 1int n;
+// 1 0 1 0 1
 #include<bits/stdc++.h>
 using namespace std;
 int main()
