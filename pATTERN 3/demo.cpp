@@ -1,10 +1,14 @@
-
+//  5 5 5 5 5
+//  4 4 4 4
+//  3 3 3
+//  2 2
+//  1
+     
 #include <iostream>
 using namespace std;
 int main() {
-    // Write C++ code here
     int n;
-    cout<<"Enter the pattern times:"<<" ";
+    cout<<"Enter the no :"<<" ";
     cin>>n;
     int i,j;
     for(int i=n;i>0;i--){
